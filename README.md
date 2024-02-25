@@ -17,3 +17,6 @@ A simple age and gender detector model using python
 7. Upload the image you want to detect
 8. Click on detect button
 9. View results 
+
+##Sample output
+![sample output](samp.png)
