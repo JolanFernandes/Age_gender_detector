@@ -9,9 +9,9 @@ A simple age and gender detector model using python
 
 ## To run the model yourself
 1. CLone the repository
-2. Download the dataset from [here]().
+2. Download the dataset from [here](https://www.kaggle.com/datasets/jangedoo/utkface-new).
 3. Extract dataset to your repository folder.
-4. Open the [Model Jupyter notebook]()
+4. Open the [Model Jupyter notebook](Age_Gender_Prediction.ipynb)
 5. Run this notebook
 6. Run the [gui.py](GUI.ipynb) file
 7. Upload the image you want to detect
